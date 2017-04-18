@@ -1,0 +1,57 @@
+body{
+    background-color:pink;
+    color: orange;
+    font-size:30px;
+    font-family: arial;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 170px;
+}
+
+h2{
+    text-align:center;
+    font-size:100px;
+    border-bottom: 10px dashed;
+    border-top: 10px dashed;
+    padding: 20px;
+}
+
+.big-text{
+    font-size:100px;
+    text-align: center;
+}
+.small-text{
+    font-size:15px;
+    text-align: center;
+}
+
+code{
+    color:Chartreuse ;
+    background-color:black;
+    display: block;
+    font-family:courier;
+    width:750px;
+    padding:20px;
+    margin: 10px 10px 10px 75px;
+    border:5px solid Chartreuse ;;
+}
+.main-container{
+    background-color: lightgreen;
+
+    width:1000px;
+    padding:5px 50px;
+    margin: 0px auto 0px auto;
+}
+
+img.center, iframe.center{
+    display: block;
+    margin: 0 auto;
+    border:5px solid orange;
+}
+
+.center{
+    text-align: center;
+}
